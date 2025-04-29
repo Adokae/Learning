@@ -1,0 +1,3 @@
+﻿D:\visual_studio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(25January.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  0104-while循环.cpp
+  25January.vcxproj -> G:\self_learn\cpp\25January\x64\Debug\25January0104.exe
