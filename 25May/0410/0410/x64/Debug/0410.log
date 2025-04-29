@@ -1,0 +1,3 @@
+﻿  0410案例.cpp
+G:\self_learn\cpp\25May\0410\0410\0410案例.cpp(63,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  0410.vcxproj -> G:\self_learn\cpp\25May\0410\x64\Debug\0410.exe
