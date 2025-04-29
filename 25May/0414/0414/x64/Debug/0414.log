@@ -1,0 +1,4 @@
+﻿  0414常用查找算法count_if.cpp
+G:\self_learn\cpp\25May\0414\0414\0414常用查找算法count_if.cpp(34,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\self_learn\cpp\25May\0414\0414\0414常用查找算法count_if.cpp(84,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  0414.vcxproj -> G:\self_learn\cpp\25May\0414\x64\Debug\0414.exe

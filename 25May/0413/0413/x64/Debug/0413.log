@@ -1,0 +1,5 @@
+﻿  0413map案例.cpp
+G:\self_learn\cpp\25May\0413\0413\0413map案例.cpp(62,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\self_learn\cpp\25May\0413\0413\0413map案例.cpp(71,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\self_learn\cpp\25May\0413\0413\0413map案例.cpp(81,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  0413.vcxproj -> G:\self_learn\cpp\25May\0413\x64\Debug\0413.exe
